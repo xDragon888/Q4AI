@@ -1,0 +1,10 @@
+# Browser-exported research progress and reports
+Q4AI_进展_*.json
+Q4AI_探索计划_进展快照_*.html
+Q4AI_研究周报_*.txt
+
+# Local machine and editor state
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
